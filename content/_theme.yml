@@ -1,0 +1,39 @@
+title: "Mockgee"
+
+layout: docs
+
+url: "https://mockgee.com/"
+
+description: Mockgee is an enterprise-grade API mocking server.
+
+socials:
+  twitter: "mockgee"
+  github: "tqiqbal/tqiqbal"
+
+debug: false
+
+github:
+  root: docs/content
+  edit: true
+  releases: true
+
+cover:
+  src: /cover.jpg
+  alt: A screenshot of the Nuxt Tailwind module.
+
+header:
+  title: false
+  logo: true
+
+# footer:
+#   credits:
+#     icon: IconDocus
+#     text: Powered by Docus
+#     href: https://docus.com
+#   icons:
+#   - label: NuxtJS
+#     href: https://nuxtjs.org
+#     component: IconNuxt
+#   - label: Vue Telescope
+#     href: https://vuetelescope.com
+#     component: IconVueTelescope
